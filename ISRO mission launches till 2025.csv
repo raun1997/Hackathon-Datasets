@@ -1,0 +1,132 @@
+Mission_Name,Launch_Date,Launch_Vehicle,Satellite_Mass_kg,Mission_Type,Launch_Site,Orbit_Class,Mission_Outcome,Remarks
+Aryabhata,4/19/1975,C-1 Intercosmos,360,Experimental,Kapustin Yar,LEO,Success,India's first satellite. Power failure halted experiments after 4 days.
+Bhaskara-I,6/7/1979,C-1 Intercosmos,442,Earth Observation,Kapustin Yar,LEO,Success,TV camera malfunctioned but other instruments worked as intended.
+Rohini Technology Payload (RTP),8/10/1979,SLV-3,35,Technology Demonstration,Satish Dhawan Space Centre,LEO (Intended),Failure,Launch vehicle was unsuccessful; satellite did not achieve orbit.
+Rohini RS-1,7/18/1980,SLV-3,35,Technology Demonstration,Satish Dhawan Space Centre,LEO,Success,First successful launch using India's own launch vehicle (SLV-3).
+Rohini RS-D1,5/31/1981,SLV-3,38,Earth Observation,Satish Dhawan Space Centre,LEO,Partial Success,Did not achieve the desired altitude  leading to a shorter orbital life of 9 days.
+APPLE,6/19/1981,Ariane-1,670,Communication,Guiana Space Centre,GEO,Success,India's first experimental geostationary communication satellite.
+Bhaskara-II,11/20/1981,C-1 Intercosmos,444,Earth Observation,Kapustin Yar,LEO,Success,Provided valuable remote sensing data.
+INSAT-1A,4/10/1982,Delta 3910,1152,Communication,Cape Canaveral,GEO (Intended),Failure,Deactivated after solar sail failed to deploy and control fuel was exhausted.
+Rohini RS-D2,4/17/1983,SLV-3,41.5,Earth Observation,Satish Dhawan Space Centre,LEO,Success,Successfully operated for 17 months with its smart sensor camera.
+INSAT-1B,8/30/1983,Space Shuttle Challenger,1152,Communication,Kennedy Space Center,GEO,Success,Served for more than its designed life.
+SROSS-1,3/24/1987,ASLV,150,Technology Demonstration,Satish Dhawan Space Centre,LEO (Intended),Failure,First developmental launch of ASLV failed. Did not achieve orbit.
+IRS-1A,3/17/1988,Vostok-2M,975,Earth Observation,Baikonur Cosmodrome,SSPO,Success,First operational Indian Remote Sensing satellite.
+SROSS-2,7/13/1988,ASLV,150,Technology Demonstration,Satish Dhawan Space Centre,LEO (Intended),Failure,Second developmental launch of ASLV failed.
+INSAT-1C,7/22/1988,Ariane-3,1190,Communication,Guiana Space Centre,GEO,Partial Success,A power system failure cut its operational life in half.
+INSAT-1D,6/12/1990,Delta 4925,1292,Communication,Cape Canaveral,GEO,Success,Final satellite of the first-generation INSAT series.
+IRS-1B,8/29/1991,Vostok-2M,975,Earth Observation,Baikonur Cosmodrome,SSPO,Success,Identical to IRS-1A; continued the remote sensing program.
+SROSS-C,5/20/1992,ASLV,106,Scientific,Satish Dhawan Space Centre,LEO,Partial Success,Achieved a lower than planned orbit reducing its lifespan.
+INSAT-2A,7/10/1992,Ariane-4,1906,Communication,Guiana Space Centre,GEO,Success,First satellite of the indigenously built second-generation INSAT series.
+INSAT-2B,7/23/1993,Ariane-4,1906,Communication,Guiana Space Centre,GEO,Success,Joined INSAT-2A in orbit.
+IRS-1E,9/20/1993,PSLV-D1,846,Earth Observation,Satish Dhawan Space Centre,LEO (Intended),Failure,First developmental launch of PSLV failed.
+SROSS-C2,5/4/1994,ASLV,114,Scientific,Satish Dhawan Space Centre,LEO,Success,First successful launch of the ASLV.
+IRS-P2,10/15/1994,PSLV-D2,804,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,First successful operational launch of PSLV.
+INSAT-2C,12/7/1995,Ariane-4,2100,Communication,Guiana Space Centre,GEO,Success,Enhanced communication capabilities with Ku-band transponders.
+IRS-1C,12/28/1995,Molniya-M,1250,Earth Observation,Baikonur Cosmodrome,SSPO,Success,Carried advanced remote sensing cameras.
+IRS-P3,3/21/1996,PSLV-D3,920,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Carried payloads for earth observation and X-ray astronomy.
+INSAT-2D,6/4/1997,Ariane-4,2079,Communication,Guiana Space Centre,GEO,Failure,Lost due to an on-board power bus anomaly shortly after launch.
+IRS-1D,9/29/1997,PSLV-C1,1250,Earth Observation,Satish Dhawan Space Centre,SSPO,Partial Success,Achieved a lower-than-planned orbit but was still partially usable.
+INSAT-2E,4/3/1999,Ariane-4,2550,Communication,Guiana Space Centre,GEO,Success,Carried communication and meteorological payloads.
+Oceansat-1 (IRS-P4),5/26/1999,PSLV-C2,1050,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,First Indian satellite primarily built for oceanographic applications.
+INSAT-3B,3/22/2000,Ariane-5,2070,Communication,Guiana Space Centre,GEO,Success,Augmented the communication services of INSAT system.
+GSAT-1,4/18/2001,GSLV-D1,1530,Technology Demonstration,Satish Dhawan Space Centre,GTO (Intended),Partial Success,Did not reach the intended orbit due to GSLV upper stage underperformance.
+Technology Experiment Satellite (TES),10/22/2001,PSLV-C3,1108,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Used to test technologies for future reconnaissance satellites.
+INSAT-3C,1/24/2002,Ariane-4,2750,Communication,Guiana Space Centre,GEO,Success,Provided voice  video and digital data services.
+KALPANA-1 (METSAT),9/12/2002,PSLV-C4,1060,Meteorology,Satish Dhawan Space Centre,GSO,Success,First dedicated meteorological satellite built by ISRO.
+INSAT-3A,4/10/2003,Ariane-5,2950,Communication,Guiana Space Centre,GEO,Success,Multipurpose satellite for telecom  television  and meteorological services.
+GSAT-2,5/8/2003,GSLV-D2,1825,Technology Demonstration,Satish Dhawan Space Centre,GTO,Success,Experimental satellite to test new communication technologies.
+INSAT-3E,9/28/2003,Ariane-5,2775,Communication,Guiana Space Centre,GEO,Success,Exclusively for communication services.
+RESOURCESAT-1 (IRS-P6),10/17/2003,PSLV-C5,1360,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,"Provided data for agriculture,  disaster management, and land use."
+EDUSAT (GSAT-3),9/20/2004,GSLV-F01,1950,Communication,Satish Dhawan Space Centre,GTO,Success,India's first satellite built exclusively to serve the educational sector.
+HAMSAT,5/5/2005,PSLV-C6,42.5,Amateur Radio,Satish Dhawan Space Centre,SSPO,Success,Microsatellite for providing satellite-based amateur radio services.
+CARTOSAT-1,5/5/2005,PSLV-C6,1560,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,"Provided high-resolution, stereo imagery for cartographic applications."
+INSAT-4A,12/22/2005,Ariane-5,3081,Communication,Guiana Space Centre,GTO,Success,"First in the INSAT-4 series, primarily for DTH television services."
+INSAT-4B,3/12/2007,Ariane-5,3028,Communication,Guiana Space Centre,GTO,Partial Success,"Suffered a power anomaly in 2010, which reduced its capacity."
+SRE-1,1/10/2007,PSLV-C7,550,Technology Demonstration,Satish Dhawan Space Centre,LEO,Success,An experimental space capsule which was successfully recovered after 12 days.
+CARTOSAT-2,1/10/2007,PSLV-C7,680,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Advanced remote sensing satellite with a panchromatic camera.
+INSAT-4CR,9/2/2007,GSLV-F04,2140,Communication,Satish Dhawan Space Centre,GTO,Partial Success,"Placed in a lower orbit than planned, which reduced its expected mission life."
+CARTOSAT-2A,4/28/2008,PSLV-C9,690,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Dedicated satellite for the Indian Armed Forces.
+IMS-1,4/28/2008,PSLV-C9,83,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,A low-cost microsatellite for remote sensing.
+Chandrayaan-1,10/22/2008,PSLV-C11,1380,Lunar Exploration,Satish Dhawan Space Centre,Lunar Orbit,Success,India's first lunar probe. Confirmed the presence of water molecules on the Moon.
+RISAT-2,4/20/2009,PSLV-C12,300,Earth Observation,Satish Dhawan Space Centre,LEO,Success,Radar imaging satellite used for surveillance and disaster management.
+Oceansat-2,9/23/2009,PSLV-C14,970,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Provided data for oceanography and atmospheric studies.
+GSAT-5P / INSAT-4D,12/25/2010,GSLV-F06,2130,Communication,Satish Dhawan Space Centre,GTO (Intended),Failure,Launch vehicle failed and was destroyed by range safety 63 seconds after liftoff.
+CARTOSAT-2B,7/12/2010,PSLV-C15,694,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Similar to previous Cartosat satellites for high-resolution imaging.
+GSAT-5P,12/25/2010,GSLV-F06,2130,Communication,Satish Dhawan Space Centre,GTO (Intended),Failure,Duplicate entry from list; refers to the same failed launch of GSLV-F06.
+RESOURCESAT-2,4/20/2011,PSLV-C16,1206,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,A follow-on mission to Resourcesat-1 to provide data continuity.
+YOUTHSAT,4/20/2011,PSLV-C16,92,Scientific,Satish Dhawan Space Centre,SSPO,Success,An Indo-Russian satellite for stellar and atmospheric research.
+GSAT-8 (INSAT-4G),5/21/2011,Ariane-5,3093,Communication/Navigation,Guiana Space Centre,GTO,Success,Carried Ku-band transponders and the GAGAN navigation payload.
+GSAT-12,7/15/2011,PSLV-C17,1410,Communication,Satish Dhawan Space Centre,GTO,Success,Replaced the services of the aged INSAT-3B satellite.
+Megha-Tropiques,10/12/2011,PSLV-C18,1000,Meteorology,Satish Dhawan Space Centre,LEO,Success,An Indo-French joint mission to study the tropical atmosphere and climate.
+RISAT-1,4/26/2012,PSLV-C19,1858,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,India's first indigenous all-weather Radar Imaging Satellite.
+GSAT-10,9/29/2012,Ariane-5,3400,Communication/Navigation,Guiana Space Centre,GTO,Success,Carried communication transponders and the GAGAN payload.
+SARAL,2/25/2013,PSLV-C20,407,Oceanography,Satish Dhawan Space Centre,SSPO,Success,A joint Indo-French mission for studying the ocean's surface and sea level.
+IRNSS-1A,7/1/2013,PSLV-C22,1425,Navigation,Satish Dhawan Space Centre,GSO,Success,First satellite in the NAVIC constellation. Its atomic clocks later failed.
+INSAT-3D,7/26/2013,Ariane-5,2060,Meteorology,Guiana Space Centre,GTO,Success,Advanced meteorological satellite with improved imaging and an atmospheric sounder.
+GSAT-7 (INSAT-4F),8/30/2013,Ariane-5,2650,Communication,Guiana Space Centre,GTO,Success,India's first dedicated military communications satellite.
+Mars Orbiter Mission,11/5/2013,PSLV-C25,1337,Planetary Science,Satish Dhawan Space Centre,Heliocentric,Success,India's first interplanetary mission. Made ISRO the fourth agency to reach Mars.
+GSAT-14,1/5/2014,GSLV-D5,1982,Communication,Satish Dhawan Space Centre,GTO,Success,First successful flight of GSLV with an indigenous cryogenic upper stage.
+IRNSS-1B,4/4/2014,PSLV-C24,1432,Navigation,Satish Dhawan Space Centre,GSO,Success,Second satellite of the NAVIC navigation system.
+IRNSS-1C,10/16/2014,PSLV-C26,1425,Navigation,Satish Dhawan Space Centre,GEO,Success,Third satellite of the NAVIC navigation system.
+GSAT-16,12/7/2014,Ariane-5,3181,Communication,Guiana Space Centre,GTO,Success,A multi-band telecom satellite to augment communication services.
+CARE,12/18/2014,LVM3-X,3775,Technology Demonstration,Satish Dhawan Space Centre,Suborbital,Success,Crew module Atmospheric Re-entry Experiment on the first test flight of LVM3.
+IRNSS-1D,3/28/2015,PSLV-C27,1425,Navigation,Satish Dhawan Space Centre,GSO,Success,Fourth satellite of the NAVIC navigation system.
+GSAT-6,8/27/2015,GSLV-D6,2117,Communication,Satish Dhawan Space Centre,GTO,Success,Featured a large 6-meter unfurlable antenna for S-band communication.
+Astrosat,9/28/2015,PSLV-C30,1515,Space Telescope,Satish Dhawan Space Centre,LEO,Success,India's first multi-wavelength space observatory.
+GSAT-15,11/11/2015,Ariane-5,3164,Communication/Navigation,Guiana Space Centre,GTO,Success,Carried Ku-band transponders and the GAGAN payload.
+IRNSS-1E,1/20/2016,PSLV-C31,1425,Navigation,Satish Dhawan Space Centre,GSO,Success,Fifth satellite of the NAVIC navigation system.
+IRNSS-1F,3/10/2016,PSLV-C32,1425,Navigation,Satish Dhawan Space Centre,GSO,Success,Sixth satellite of the NAVIC navigation system.
+IRNSS-1G,4/28/2016,PSLV-C33,1425,Navigation,Satish Dhawan Space Centre,GEO,Success,Seventh and final satellite to complete the initial NAVIC constellation.
+RLV-TD,5/23/2016,H9 Booster,1750,Technology Demonstration,Satish Dhawan Space Centre,Suborbital,Success,Hypersonic flight experiment of the Reusable Launch Vehicle Technology Demonstrator.
+Cartosat-2 Series Satellite (2C),6/22/2016,PSLV-C34,727.5,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Launched along with 19 co-passenger satellites.
+INSAT-3DR,9/8/2016,GSLV-F05,2211,Meteorology,Satish Dhawan Space Centre,GTO,Success,"An advanced meteorological satellite, a follow-on to INSAT-3D."
+SCATSAT-1,9/26/2016,PSLV-C35,371,Oceanography,Satish Dhawan Space Centre,SSPO,Success,Continuity mission for Oceansat-2 scatterometer to provide wind vector data.
+GSAT-18,10/6/2016,Ariane-5,3404,Communication,Guiana Space Centre,GTO,Success,Carried C-band and Ku-band transponders.
+Resourcesat-2A,12/7/2016,PSLV-C36,1235,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Provided data continuity for the Resourcesat series.
+Cartosat-2 Series Satellite (2D),2/15/2017,PSLV-C37,714,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Primary satellite in a record-setting launch of 104 satellites.
+GSAT-9 / South Asia Satellite,5/5/2017,GSLV-F09,2230,Communication,Satish Dhawan Space Centre,GTO,Success,A communications satellite gifted by India for use by SAARC nations.
+GSAT-19,6/5/2017,GSLV MkIII-D1,3136,Communication,Satish Dhawan Space Centre,GTO,Success,First developmental flight of the GSLV MkIII launch vehicle.
+Cartosat-2 Series Satellite (2E),6/23/2017,PSLV-C38,712,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,High-resolution earth observation satellite.
+GSAT-17,6/29/2017,Ariane-5,3477,Communication,Guiana Space Centre,GTO,Success,Carried communication payloads and satellite-aided search and rescue equipment.
+IRNSS-1H,8/31/2017,PSLV-C39,1425,Navigation,Satish Dhawan Space Centre,GTO (Intended),Failure,"The payload fairing failed to separate, trapping the satellite inside."
+GSAT-6A,3/29/2018,GSLV-F08,2140,Communication,Satish Dhawan Space Centre,GTO,Partial Success,Communication was lost with the satellite two days after launch.
+IRNSS-1I,4/12/2018,PSLV-C41,1425,Navigation,Satish Dhawan Space Centre,GSO,Success,Replacement satellite for the failed IRNSS-1A.
+GSAT-29,11/14/2018,GSLV MkIII-D2,3423,Communication,Satish Dhawan Space Centre,GTO,Success,High-throughput satellite for remote area connectivity.
+HysIS,11/29/2018,PSLV-C43,380,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Hyperspectral Imaging Satellite for advanced Earth observation.
+GSAT-11,12/5/2018,Ariane-5,5854,Communication,Guiana Space Centre,GTO,Success,"Heaviest satellite built by ISRO, providing high-speed internet connectivity."
+GSAT-7A,12/19/2018,GSLV-F11,2250,Communication,Satish Dhawan Space Centre,GTO,Success,A military communications satellite for the Indian Air Force.
+Microsat-R,1/24/2019,PSLV-C44,740,Technology Demonstration,Satish Dhawan Space Centre,LEO,Success,An imaging satellite that later served as the target for an anti-satellite (ASAT) missile test.
+GSAT-31,2/6/2019,Ariane-5,2536,Communication,Guiana Space Centre,GTO,Success,A telecommunications satellite to provide continuity to INSAT-4CR services.
+EMISAT,4/1/2019,PSLV-C45,436,Electronic Intelligence,Satish Dhawan Space Centre,SSPO,Success,An electronic intelligence satellite for the Defence Research and Development Organisation (DRDO).
+RISAT-2B,5/22/2019,PSLV-C46,615,Earth Observation,Satish Dhawan Space Centre,LEO,Success,A radar imaging satellite for all-weather surveillance.
+Chandrayaan-2,7/22/2019,GSLV MkIII-M1,3850,Lunar Exploration,Satish Dhawan Space Centre,Lunar Orbit,Partial Success,"Orbiter remains operational, but the lander (Vikram) and rover (Pragyan) failed during the landing attempt."
+Cartosat-3,11/27/2019,PSLV-C47,1625,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Advanced high-resolution earth observation satellite.
+RISAT-2BR1,12/11/2019,PSLV-C48,628,Earth Observation,Satish Dhawan Space Centre,LEO,Success,Radar imaging satellite for all-weather surveillance.
+GSAT-30,1/17/2020,Ariane-5,3357,Communication,Guiana Space Centre,GTO,Success,A telecommunications satellite designed to replace the aging INSAT-4A.
+EOS-01,11/7/2020,PSLV-C49,630,Earth Observation,Satish Dhawan Space Centre,LEO,Success,"An all-weather Radar Imaging Satellite, also known as RISAT-2BR2."
+CMS-01,12/17/2020,PSLV-C50,1410,Communication,Satish Dhawan Space Centre,GTO,Success,A communications satellite intended to replace GSAT-12.
+Amazonia-1,2/28/2021,PSLV-C51,637,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Primary payload from Brazil. First dedicated commercial mission for NSIL.
+EOS-03,8/12/2021,GSLV-F10,2268,Earth Observation,Satish Dhawan Space Centre,GTO (Intended),Failure,Launch failed due to a technical anomaly in the cryogenic upper stage.
+EOS-04 (RISAT-1A),2/14/2022,PSLV-C52,1710,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Radar Imaging Satellite to provide high-quality images under all weather conditions.
+INS-2TD,2/14/2022,PSLV-C52,17.5,Technology Demonstration,Satish Dhawan Space Centre,SSPO,Success,"Co-passenger with EOS-04, a precursor to the India-Bhutan joint satellite."
+InspireSat-1,2/14/2022,PSLV-C52,8.1,Scientific,Satish Dhawan Space Centre,SSPO,Success,"Co-passenger with EOS-04, a student satellite."
+DS-EO,6/30/2022,PSLV-C53,365,Earth Observation,Satish Dhawan Space Centre,LEO,Success,Primary commercial payload from Singapore for NSIL.
+EOS-02,8/7/2022,SSLV-D1,135,Earth Observation,Satish Dhawan Space Centre,LEO (Intended),Failure,Maiden developmental flight of the SSLV failed to place the satellite into a usable orbit.
+Vikram-S,11/18/2022,Vikram-S,545,Technology Demonstration,Satish Dhawan Space Centre,Suborbital,Success,Mission 'Prarambh'. First launch of a privately developed rocket in India by Skyroot Aerospace.
+EOS-06 (Oceansat-3),11/26/2022,PSLV-C54,1117,Oceanography,Satish Dhawan Space Centre,SSPO,Success,Provides continuity services for the Oceansat series with enhanced payload capabilities.
+INS-2B,11/26/2022,PSLV-C54,18.28,Technology Demonstration,Satish Dhawan Space Centre,SSPO,Success,Co-passenger with EOS-06; A joint satellite with Bhutan.
+Anand,11/26/2022,PSLV-C54,15,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,Co-passenger with EOS-06; A hyperspectral nanosatellite from startup Pixxel.
+Thybolt (1 & 2),11/26/2022,PSLV-C54,1.45,Communication,Satish Dhawan Space Centre,SSPO,Success,Co-passengers with EOS-06; Nanosatellites for amateur radio from Dhruva Space.
+EOS-07,2/10/2023,SSLV-D2,156.3,Earth Observation,Satish Dhawan Space Centre,LEO,Success,Second developmental flight and first successful flight of the SSLV.
+NVS-01,5/29/2023,GSLV-F12,2232,Navigation,Satish Dhawan Space Centre,GTO,Success,First of the second-generation NavIC satellites with an indigenous atomic clock.
+Chandrayaan-3,7/14/2023,LVM3-M4,3900,Lunar Exploration,Satish Dhawan Space Centre,Lunar Orbit,Success,Achieved a historic successful soft landing on the lunar south pole.
+Aditya-L1,9/2/2023,PSLV-C57,1480.7,Solar Observatory,Satish Dhawan Space Centre,Halo Orbit (L1),Success,India's first dedicated solar observatory; successfully entered halo orbit in Jan 2024.
+GSAT-N2 (GSAT-20),11/19/2024,Falcon 9,4700,Communication,Cape Canaveral,GTO,Success,"A high-throughput satellite launched by SpaceX for NSIL, not on an ISRO vehicle."
+Proba-3,12/5/2024,PSLV-XL,340,Scientific,Satish Dhawan Space Centre,HEO,Success,An ESA mission launched by ISRO to demonstrate precision formation flying.
+SPADEX-A & SPADEX-B,12/30/2024,PSLV,400,Technology Demonstration,Satish Dhawan Space Centre,LEO,Success,Twin satellite mission to demonstrate autonomous rendezvous and docking technology.
+NVS-02,1/29/2025,GSLV,2232,Navigation,Satish Dhawan Space Centre,GTO,Success,Second satellite in the second-generation NavIC constellation.
+EOS-09,5/18/2025,SSLV,350,Earth Observation,Satish Dhawan Space Centre,LEO,Success,An advanced Earth observation microsatellite.
+NISAR,7/30/2025,GSLV MkII,2800,Earth Observation,Satish Dhawan Space Centre,SSPO,Success,A joint NASA-ISRO Synthetic Aperture Radar mission for Earth science.
+Rohini Satellite RS-D1,5/31/1981,SLV-3,38,Earth Observation,Satish Dhawan Space Centre,LEO,Partial Success,"Did not achieve the desired altitude, resulting in an orbital life of only 9 days."
+GSAT-4,4/15/2010,GSLV-D3,2220,Communication,Satish Dhawan Space Centre,GTO (Intended),Failure,Launch failed as the indigenous cryogenic upper stage did not ignite.
+GSAT-24,6/23/2022,Ariane-5,4180,Communication,Guiana Space Centre,GTO,Success,A dedicated satellite for DTH services; launched by Arianespace for NSIL.
