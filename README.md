@@ -10,3 +10,4 @@ Dataset Descriptions
 6. UPI Transanctions Dataset: https://www.kaggle.com/datasets/skullagos5246/upi-transactions-2024-dataset
 7. Indian Flights: https://www.kaggle.com/datasets/sumitjaiswar/indian-domestic-flights-data
 8. Monthly Spending Datasets: https://www.kaggle.com/datasets/rajatkhairnar/monthly-spending-for-eda
+9. Cost of living in Indian Cities: https://www.kaggle.com/datasets/shivanshupande/living-cost-citywise-india
